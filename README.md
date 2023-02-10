@@ -28,4 +28,4 @@ Before u use this code, pls install:
     npm start 
     
  
-    Good luck mate! 
+- Good luck mate! 
