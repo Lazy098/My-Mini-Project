@@ -1,0 +1,67 @@
+* {
+    background-color: #7879f1;
+    position: relative;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+
+.body{
+    width: 110%;
+    height: 500px;
+    margin-left: -10px;
+    background-color: white;
+    position: absolute;
+}
+
+p{
+    background-color: white;
+}
+.name {
+    margin-left: 20px;
+    background-color: white;
+}
+
+input {
+    background-color: white;
+}
+
+.date{
+    margin-left: 20px;
+    background-color: white;
+}
+
+.major{
+    margin-left: 20px;
+    background-color: white;
+}
+
+select{
+    background-color: white;
+}
+
+option{
+    background-color: white;
+}
+
+.id{
+    margin-left: 20px;
+    background-color: white;
+}
+
+.gender{
+    margin-left: 20px;
+    background-color: white;
+}
+
+.footer{
+    margin-top: 525px;
+}
+
+button{
+    height: 25px;
+    margin-left: 62px;
+}

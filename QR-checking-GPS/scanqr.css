@@ -1,0 +1,39 @@
+* {
+    background-color: #7879f1;
+    position: relative;
+}
+
+h3 {
+    text-align: center;
+}
+
+img{
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 60%;
+}
+
+.body{
+    width: 110%;
+    height: 500px;
+    margin-left: -10px;
+    background-color: white;
+    position: absolute;
+}
+
+.footer{
+    margin-top: 515px;
+    background-color: white;
+    width: 110%;
+    margin-left: -10px;
+    margin-bottom: -20px;
+    padding-bottom: 20px;
+
+}
+
+a{
+    background-color: white;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}

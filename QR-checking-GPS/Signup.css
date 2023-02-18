@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+}
+
+input {
+    background-color: #a3a1e1;
+    width: 275px;
+    height: 40px;
+    border-radius: 50px; 
+    margin-top: 15px;
+    padding-left: 30px;
+}
+
+.check{
+    width: 20px;
+    height: 15px;
+}
+
+button{
+    background-color: #a3a1e1;
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 50px;
+}

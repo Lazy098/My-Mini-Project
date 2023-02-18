@@ -1,0 +1,30 @@
+*{
+    background-color: #7879f1;
+    position: relative;
+}
+
+h1{
+    text-align: center;
+}
+
+.body{
+    width: 110%;
+    height: 500px;
+    margin-left: -10px;
+    background-color: white;
+    position: absolute;
+}
+
+p{
+    background-color: white;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.footer{
+    margin-top: 400px;
+}
+
+button{
+    margin-left: 80px;
+}

@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+}
+
+#sign{
+    text-align: center;
+}
+
+input{
+    background-color: #a3a1e1;
+    width: 275px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+#forget{
+    margin-left: 175px;
+}
+
+button{
+    background-color: #a3a1e1;
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 50px;
+}
+
+.footer{
+    margin-left: 50px;
+    margin-top: 60px;
+}

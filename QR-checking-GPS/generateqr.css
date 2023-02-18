@@ -1,0 +1,43 @@
+* {
+    background-color: #7879f1;
+    position: relative;
+}
+
+h3 {
+    text-align: center;
+}
+
+.body{
+    width: 110%;
+    height: 500px;
+    margin-left: -10px;
+    background-color: white;
+    position: absolute;
+}
+
+.small_container{
+    background-color: white;
+    margin: 110px;
+}
+
+.footer{
+    margin-top: 515px;
+    background-color: white;
+    width: 110%;
+    margin-left: -10px;
+    margin-bottom: -20px;
+    padding-bottom: 20px;
+
+}
+
+button{
+    height: 50px;
+    width: 100px;
+    margin-left: 20px;
+}
+
+a{
+    background-color: white;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
